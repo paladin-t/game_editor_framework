@@ -1,0 +1,72 @@
+Mar. 20, 2012
+Added plugin excluding feature.
+
+Feb. 1, 2012
+Added x86 compile configuration to C# projects.
+
+Jan. 12, 2012
+Added specified plugin files support.
+
+Dec. 27, 2011
+Save & open file path bugfix in standard file plugin.
+Some small naming refactoring.
+
+Dec. 26, 2011
+Added dockable panel focusing notification.
+Added C formatting style echo function to service base.
+Added script execution exception detail.
+
+Dec. 23, 2011
+Allowed passing null as message parameter list if no detail is needed.
+Implemented an easy to use message processor class for plugins.
+
+Dec. 15, 2011
+Refactored file open & save features.
+Implemented scripting plugins sorting.
+
+Dec. 14, 2011
+Implemented configuration accessing to plugins.
+Refactored file open & save features.
+Implemented status bar in the main form.
+
+Dec. 13, 2011
+Refactored Obj.
+Implemented a customized Vector class which allows negative index.
+Implemented message broadcaster in service base.
+
+Dec. 12, 2011
+Implemented quartered canvas.
+Added passing control name feature when resizing.
+Implemented std::map<Obj, Obj> type definition and related operations.
+
+Dec. 8, 2011
+Does not ask users to save workspace if something had been modified but undid/redid to a saved point.
+Implemented auto complete feature to debug console.
+Implemented scripting variable operation feature to plugin.
+Implemented push / pop current working directory scripting interfaces.
+Implemented getting a control on the editor window scripting interface.
+Using asynchronism MsgBox.
+More robust exception handling.
+s64 and u64 conversion bugfix.
+
+Dec. 7, 2011
+More robust exception handling; more detailed exception description.
+Added debug console echo feature to service.
+Added mouse wheel event message dispatching.
+
+Dec. 6, 2011
+Added opened & closing scripting configuration feature.
+Added managed edited status feature.
+
+Dec. 2, 2011
+Implemented drag & drop support.
+Implemented script plugin for standard plugin group.
+
+Nov. 27, 2011
+Implemented debug console.
+Refactored message dispatching flow.
+Implemented effective command pattern.
+
+Nov. 10, 2011
+Created by Wang Renxin.
+First runnable.

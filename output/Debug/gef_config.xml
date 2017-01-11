@@ -1,0 +1,28 @@
+<config name="version" value="1.0.0">
+  <node name="win_position" value="100, 100">
+  </node>
+  <node name="win_size" value="640, 480">
+  </node>
+  <node name="win_state" value="normal">
+  </node>
+  <node name="plugin" value="">
+    <node name="std" value="">
+      <node name="system" value="">
+        <node name="quartered" value="">
+          <item name="v" value="0.7291667">
+          </item>
+          <item name="h" value="0.5903084">
+          </item>
+        </node>
+      </node>
+      <node name="file" value="">
+        <node name="path_cache" value="">
+          <item name="open" value="C:\">
+          </item>
+          <item name="save" value="C:\">
+          </item>
+        </node>
+      </node>
+    </node>
+  </node>
+</config>
